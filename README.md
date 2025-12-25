@@ -4,21 +4,21 @@ A collection of tools for developers.
 **PART I**
 
 1-Escribe Style button tool : para crear botones con estilo.  
-2- https://codepen.io : ejemplos de componentes con código descargable. Super útil. 
-3- Escribe Menu style css tool en google: para componentes de menú. 
-4- Escribe Stackoverflow en google más lo que estés buscando , tip para buscar rápido en stackoverflow 
+2- https://codepen.io : ejemplos de componentes con código descargable. Super útil.  
+3- Escribe Menu style css tool en google: para componentes de menú.  
+4- Escribe Stackoverflow en google más lo que estés buscando , tip para buscar rápido en stackoverflow  
 
 Herramientas
-5-Warp terminal 
-6-Jsonplayground en google: Para graficar json 
-7- Codingline 
-8- Json crack 
-9- Omatsuri: Conjunto de herramientas para programadores, especialmente de diseño. 
-10- Responsively : para ver tus webs responsive 
-11- Free for dev 
-12- Pablo Serena github 
-13- Purecode.ai: generador de interfaces especialmente si usas angular y react ** 
-14- Refactoring.io: Una web interactiva con todo lo que debes saber sobre refactoring. 
+5-Warp terminal  
+6-Jsonplayground en google: Para graficar json  
+7- Codingline  
+8- Json crack  
+9- Omatsuri: Conjunto de herramientas para programadores, especialmente de diseño.  
+10- Responsively : para ver tus webs responsive  
+11- Free for dev  
+12- Pablo Serena github   
+13- Purecode.ai: generador de interfaces especialmente si usas angular y react **  
+14- Refactoring.io: Una web interactiva con todo lo que debes saber sobre refactoring.  
 15- Squash: especial herramienta para optimizar las imágenes de tu web. 
 16- Playwright: para pruebas end2end. 
 

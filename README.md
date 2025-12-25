@@ -3,7 +3,7 @@ A collection of tools for developers.
 
 **PART I**
 
-1-Escribe Style button tool : para crear botones con estilo. 
+1-Escribe Style button tool : para crear botones con estilo.  
 2- https://codepen.io : ejemplos de componentes con código descargable. Super útil. 
 3- Escribe Menu style css tool en google: para componentes de menú. 
 4- Escribe Stackoverflow en google más lo que estés buscando , tip para buscar rápido en stackoverflow 
